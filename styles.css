@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+/* styles.css */
+#duckduckgo-logo {
+    text-align: left;
+    margin-top: 10px;
+}
+
+#duckduckgo-logo img {
+    max-width: 70px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+}
